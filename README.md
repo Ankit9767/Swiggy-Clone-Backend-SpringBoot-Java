@@ -1,4 +1,5 @@
-Swiggy Clone Backend
+Swiggy Clone Backend : 
+
 This project is a backend application that replicates the core functionalities of the popular food delivery service, Swiggy. It provides APIs for managing restaurants, dishes, and orders, allowing users to:
 
 Add Restaurants: Register new restaurants with details like name, location, and contact information.
